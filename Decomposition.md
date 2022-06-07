@@ -4,7 +4,7 @@ Decomposition, Yazılım Mühendisliğinde karmaşık bir sorunu veya sistemi da
 Bir yazılım küçük parçalara ayrılmaz ise yazılım geliştirmenin ileri aşamalarında karşılaşılan problemleri çözmek çok daha fazla efor ve zaman gerektirir.
 Yazılımın küçük parçalara bölünmesi her bir sorunun çok daha detaylı değerlendirilebilmesini sağlar.
 # Nasıl
-Yazılımcı decomposition gerçekleştirirken analiz sırasında ortaya çıkan use case tanımlarını kullanabilir. Use case tanımlarının isim ve fiilleri madde madde ortaya çıkarmak kodun hangi nesneler aracılığıyla gerçekleşeceği hakkında bilgi.
+Yazılımcı decomposition gerçekleştirirken analiz sırasında ortaya çıkan use case tanımlarını kullanabilir. Use case tanımlarının isim ve fiilleri madde madde ortaya çıkarmak kodu hangi nesnelere böleceğimiz hakkında bize bilgi sağlar.
 
 `Altta küçük parçalara bölünmüş ilişkisel uml sınıf diyagramı örneği bulunmaktadır; `
 
